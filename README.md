@@ -1,5 +1,5 @@
 # How to make only one tab works in landscape mode, while other tabs works in portrait. Autorotate to landscape and back
-ttps://medium.com/@sunnyleeyun/swift-100-days-project-24-portrait-landscape-how-to-allow-rotate-in-one-vc-d717678301c1
+![](https://habrastorage.org/webt/bz/dr/ci/bzdrcidck5h7gldcgdsgvpc2oqg.gif)
 
 <cut/>
 
@@ -71,10 +71,10 @@ override func viewDidDisappear(_ animated: Bool) {
 
 
 В результате у нас получилось приложение, которое умеет само поворачиваться при переходне на одну их вкладок
-![](https://habrastorage.org/webt/vo/b3/qe/vob3qemwddlie5ih7qvoio8p6ma.gif)
+![](https://habrastorage.org/webt/bz/dr/ci/bzdrcidck5h7gldcgdsgvpc2oqg.gif)
 
 С рабочим примером можно ознакомиться [тут](https://github.com/funkydevil/SingleTabLandscapeMode)
 
-Статья где был подсмотрен описанный метод [тут](https://medium.com/@sunnyleeyun/swift-100-days-project-24-portrait-landscape-how-to-allow-rotate-in-one-vc-d717678301c1)
+Статья в которой был подсмотрен описанный метод [тут](https://medium.com/@sunnyleeyun/swift-100-days-project-24-portrait-landscape-how-to-allow-rotate-in-one-vc-d717678301c1)
 
 
