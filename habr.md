@@ -66,7 +66,7 @@ override func viewDidDisappear(_ animated: Bool) {
 ```
 
 
-Вроде всё. Проверяем
+Проверяем
 ![](https://habrastorage.org/webt/bz/dr/ci/bzdrcidck5h7gldcgdsgvpc2oqg.gif)
 
 Ура! У нас получилось приложение, которое умеет само поворачиваться при переходне на одну из вкладок.
