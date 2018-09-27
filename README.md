@@ -1,5 +1,5 @@
 # How to make only one tab works in landscape mode, while other tabs works in portrait. Autorotate to landscape and back
-ttps://medium.com/@sunnyleeyun/swift-100-days-project-24-portrait-landscape-how-to-allow-rotate-in-one-vc-d717678301c1
+![](https://habrastorage.org/webt/vo/b3/qe/vob3qemwddlie5ih7qvoio8p6ma.gif)
 
 <cut/>
 
