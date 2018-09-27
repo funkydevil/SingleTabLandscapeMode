@@ -15,11 +15,6 @@ class VCLandscape: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        if let path = Bundle.main.path(forResource: "chartWidget", ofType: "html") {
-            webview.load(URLRequest(url: URL(fileURLWithPath: path)))
-        }
-
     }
     
     override func viewWillAppear(_ animated: Bool) {
@@ -35,7 +30,6 @@ class VCLandscape: UIViewController {
     override func viewDidDisappear(_ animated: Bool) {
         super.viewDidDisappear(animated)
         UIDevice.current.setValue(Int(UIInterfaceOrientation.portrait.rawValue), forKey: "orientation")
-        
     }
     
     @objc func onlyLandscape() -> Void {}
