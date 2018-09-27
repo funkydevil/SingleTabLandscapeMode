@@ -60,7 +60,7 @@ override func viewDidDisappear(_ animated: Bool) {
 }	
 ```
 
-Задно тут же вставляем метод, по которому appDelegate поймёт что это у нас горизонтальный вью-контроллер
+Тут же вставляем метод, по которому appDelegate поймёт что это у нас горизонтальный вью-контроллер
 ```swift
 	@objc func onlyLandscape() -> Void {}
 ```
