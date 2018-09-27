@@ -75,6 +75,6 @@ override func viewDidDisappear(_ animated: Bool) {
 
 С рабочим примером можно ознакомиться [тут](https://github.com/funkydevil/SingleTabLandscapeMode)
 
-Статья где был подсмотрен описанный метод [тут](https://medium.com/@sunnyleeyun/swift-100-days-project-24-portrait-landscape-how-to-allow-rotate-in-one-vc-d717678301c1)
+Статья в которой был подсмотрен описанный метод [тут](https://medium.com/@sunnyleeyun/swift-100-days-project-24-portrait-landscape-how-to-allow-rotate-in-one-vc-d717678301c1)
 
 
