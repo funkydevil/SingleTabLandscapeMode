@@ -71,7 +71,7 @@ override func viewDidDisappear(_ animated: Bool) {
 Проверяем
 ![](https://habrastorage.org/webt/bz/dr/ci/bzdrcidck5h7gldcgdsgvpc2oqg.gif)
 
-Ура! У нас получилось приложение, которое умеет само поворачиваться при переходне на одну из вкладок.
+Ура! У нас получилось приложение, которое умеет само поворачиваться при переходе на одну из вкладок.
 
 С рабочим примером можно ознакомиться [тут](https://github.com/funkydevil/SingleTabLandscapeMode)
 
