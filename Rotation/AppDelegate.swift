@@ -16,10 +16,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func application(_ application: UIApplication, supportedInterfaceOrientationsFor window: UIWindow?) -> UIInterfaceOrientationMask {
         if let rootViewController = self.topViewControllerWithRootViewController(rootViewController: window?.rootViewController) {
             if (rootViewController.responds(to: Selector(("onlyLandscape")))) {
-                return .landscape;
+                return .landscape
             }
         }
-        return .portrait;
+        return .portrait
     }
     
     private func topViewControllerWithRootViewController(rootViewController: UIViewController!) -> UIViewController? {
